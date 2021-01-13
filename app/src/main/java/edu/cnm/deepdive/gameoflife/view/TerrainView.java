@@ -38,7 +38,7 @@ public class TerrainView extends View {
   private static final float DEFAULT_SATURATION = 1;
   private static final float DEFAULT_NEW_BRIGHTNESS = 1;
   private static final float DEFAULT_OLD_BRIGHTNESS = 0.6f;
-  private static final long UPDATE_INTERVAL = 10;
+  private static final long UPDATE_INTERVAL = 20;
 
   private final Rect source;
   private final Rect dest;
